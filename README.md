@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p> ![](https://visitor-badge.laobi.icu/badge?page_id=ken1000minus7.ken1000minus7) </p>   
+<p> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ken1000minus7.ken1000minus7) </p>   
 <!--
 **ken1000minus7/ken1000minus7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
