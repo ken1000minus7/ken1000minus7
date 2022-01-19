@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1> Stats 📊 </h1>
+<h2> Competitive Programming Stats </h2>
+
+<a href="https://www.codechef.com/users/ken1000minus7"> ![Badge](https://cp-logo.vercel.app/codechef/ken1000minus7)</a>  <a href="https://codeforces.com/profile/Ken1000minus7"> ![Badge](https://cp-logo.vercel.app/codeforces/Ken1000minus7)  </a>
+
+<h2> Github Stats </h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ken1000minus7&show_icons=true&theme=tokyonight)
 
