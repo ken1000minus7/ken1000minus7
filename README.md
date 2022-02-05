@@ -1,10 +1,6 @@
-# <center><font size=50> **_Hi there_**  </font><img src="https://cdn160.picsart.com/upscale-228431809005212.png" height=70> </center>
+# <p align="center"><font size=100> _Hi there_  </font><img src="https://cdn160.picsart.com/upscale-228431809005212.png" height=70> </p>
 
-<center>
-
-![](https://visitor-badge.laobi.icu/badge?page_id=ken1000minus7.ken1000minus7)   
-
-</center>
+<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ken1000minus7.ken1000minus7"></p>
 
 # **About Me**
 <!--
@@ -22,7 +18,7 @@ A budding software engineer who is passionate about building new things ✌️. 
 - 💬 Ask me about ... _something i know_
 - 📫 How to reach me: ... _discord_
 - 😄 Pronouns: ... _he/him_
-- ⚡ Fun fact: ... _I am not alone, loneliness 
+- ⚡ Fun fact: ... _I am not alone, loneliness is always with me_
 
 <h1><b>Stats 📊</b></h1>
 
@@ -33,7 +29,8 @@ A budding software engineer who is passionate about building new things ✌️. 
 
 ## **Github Stats** 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ken1000minus7&show_icons=true&theme=tokyonight" width=54.5% alt="Github Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken1000minus7&layout=compact&theme=tokyonight" width=45.5% alt="Github Stats" align="right">
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ken1000minus7&show_icons=true&theme=tokyonight" width=54% alt="Github Stats" align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken1000minus7&layout=compact&theme=tokyonight" width=45% alt="Github Stats" align="center">
+</div>
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ken1000minus7&theme=react-dark" alt="ken1000minus7" />
