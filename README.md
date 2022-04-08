@@ -30,7 +30,7 @@ A budding software engineer who is passionate about building new things ✌️. 
 ## **Github Stats** 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ken1000minus7&show_icons=true&theme=tokyonight" width=54% alt="Github Stats" align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken1000minus7&layout=compact&theme=tokyonight" width=45% alt="Github Stats" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ken1000minus7&show_icons=true&theme=tokyonight" width=57.5% alt="Github Stats" align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken1000minus7&layout=compact&theme=tokyonight&langs_count=8" width=41.5% alt="Github Stats" align="center">
 </div>
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ken1000minus7&theme=react-dark" alt="ken1000minus7" />
