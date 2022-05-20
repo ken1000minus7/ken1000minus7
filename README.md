@@ -1,12 +1,9 @@
-# <p align="center"><font size=100> _Hi there_  </font><img src="https://cdn160.picsart.com/upscale-228431809005212.png" height=70> </p>
+<!-- # <p align="center"><font size=100> _Hi there_  </font><img src="https://cdn160.picsart.com/upscale-228431809005212.png" height=70> </p>
 
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ken1000minus7.ken1000minus7"></p>
 
 # **About Me**
-<!--
-**ken1000minus7/ken1000minus7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:-->
 A budding software engineer who is passionate about building new things ✌️. Currently pursuing BTech in Computer Science from Punjab Engineering College, Chandigarh 😋
 
 <img src="https://stickers.wiki/static/stickers/fategrandreactions/file_729557.webp?ezimgfmt=rs:134x134/rscb1/ng:webp/ngcb1" align="right" height=200>
@@ -37,4 +34,5 @@ A budding software engineer who is passionate about building new things ✌️. 
 
 ## Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ken1000minus7&theme=darkhub&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ken1000minus7&theme=darkhub&column=9)](https://github.com/ryo-ma/github-profile-trophy) -->
+Hello, thx for visiting my profile, u may leave now
