@@ -35,4 +35,4 @@ A budding software engineer who is passionate about building new things ✌️. 
 ## Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ken1000minus7&theme=darkhub&column=9)](https://github.com/ryo-ma/github-profile-trophy) -->
-Hello, thx for visiting my profile, u may leave now
+Enthusiasts beware, I am cooking something special for you ⚔️
