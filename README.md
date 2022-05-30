@@ -1,3 +1,4 @@
+Enthusiasts beware, I am cooking something special for you ⚔️
 <!-- # <p align="center"><font size=100> _Hi there_  </font><img src="https://cdn160.picsart.com/upscale-228431809005212.png" height=70> </p>
 
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ken1000minus7.ken1000minus7"></p>
@@ -15,7 +16,7 @@ A budding software engineer who is passionate about building new things ✌️. 
 - 💬 Ask me about ... _something i know_
 - 📫 How to reach me: ... _discord_
 - 😄 Pronouns: ... _he/him_
-- ⚡ Fun fact: ... _I am not alone, loneliness is always with me_
+- ⚡ Fun fact: ... _I am not alone, loneliness is always with me_ -->
 
 <h1><b>Stats 📊</b></h1>
 
@@ -34,5 +35,5 @@ A budding software engineer who is passionate about building new things ✌️. 
 
 ## Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ken1000minus7&theme=darkhub&column=9)](https://github.com/ryo-ma/github-profile-trophy) -->
-Enthusiasts beware, I am cooking something special for you ⚔️
+[![trophy](https://github-profile-trophy.vercel.app/?username=ken1000minus7&theme=darkhub&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+
