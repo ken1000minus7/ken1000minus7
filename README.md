@@ -22,7 +22,7 @@ A budding software engineer who is passionate about building new things ✌️. 
 
 ## **Competitive Programming Stats** 
 
-<a href="https://www.codechef.com/users/ken1000minus7"> ![Badge](https://cp-logo.vercel.app/codechef/ken1000minus7)</a>  <a href="https://codeforces.com/profile/Ken1000minus7"> ![Badge](https://cp-logo.vercel.app/codeforces/Ken1000minus7)  </a> <a href="https://atcoder.jp/users/ken1000minus7"> ![Badge](https://cp-logo.vercel.app/atcoder/ken1000minus7)  </a> <a href="https://leetcode.com/ken1000minus7/"> ![Badge](https://cp-logo.vercel.app/leetcode/ken1000minus7)  </a>
+<a href="https://www.codechef.com/users/ken1000minus7"> ![Badge](https://cp-logo.vercel.app/codechef/ken1000minus7)</a>  <a href="https://codeforces.com/profile/Ken1000minus7"> ![Badge](https://cp-logo.vercel.app/codeforces/Ken1000minus7)</a> <a href="https://atcoder.jp/users/ken1000minus7"> ![Badge](https://cp-logo.vercel.app/atcoder/ken1000minus7)</a> <a href="https://leetcode.com/ken1000minus7/"> ![Badge](https://cp-logo.vercel.app/leetcode/ken1000minus7)</a>
 
 
 ## **Github Stats** 
