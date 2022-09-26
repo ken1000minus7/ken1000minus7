@@ -1,4 +1,6 @@
 Enthusiasts beware, I am cooking something special for you ⚔️
+
+[![wakatime](https://wakatime.com/badge/user/1fd60f8e-4555-4776-a3a0-e0ea435b1095.svg)](https://wakatime.com/@1fd60f8e-4555-4776-a3a0-e0ea435b1095)
 <!-- # <p align="center"><font size=100> _Hi there_  </font><img src="https://cdn160.picsart.com/upscale-228431809005212.png" height=70> </p>
 
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ken1000minus7.ken1000minus7"></p>
