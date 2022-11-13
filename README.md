@@ -36,6 +36,7 @@ A budding software engineer who is passionate about building new things ✌️. 
 <img width=70% src="https://github-readme-streak-stats.herokuapp.com/?user=ken1000minus7&theme=dark" alt="ken1000minus7" />
 </div>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ken1000minus7&theme=react-dark" alt="ken1000minus7" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ken1000minus7&layout=compact&theme=dracula" />
 
 ## Achievements
 
