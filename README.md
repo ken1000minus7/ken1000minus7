@@ -6,7 +6,7 @@ Enthusiasts beware, I am cooking something special for you ⚔️
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ken1000minus7.ken1000minus7"></p>
 
 # **About Me**
-
+nothing here
 A budding software engineer who is passionate about building new things ✌️. Currently pursuing BTech in Computer Science from Punjab Engineering College, Chandigarh 😋
 
 <img src="https://stickers.wiki/static/stickers/fategrandreactions/file_729557.webp?ezimgfmt=rs:134x134/rscb1/ng:webp/ngcb1" align="right" height=200>
